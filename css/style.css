@@ -1,0 +1,38 @@
+body{
+    background-color: #24353F;
+    
+}
+h1{
+    font-size: 40px;
+    line-height: 48px;
+    font-weight:500 ;
+    color: #17a2b8;
+
+}
+
+::placeholder{
+    color: #fff !important; 
+}
+input{
+    background-color: transparent !important;
+    color: #fff !important;
+}
+p{
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 400;
+}
+p a{
+    text-decoration: none;
+    transition: all .25s linear;
+}
+p a:hover{
+    text-decoration: underline;
+}
+.logo{
+font-size: 20px;
+line-height: 30px;
+font-weight: 400;
+color: #fff;
+text-decoration: none;
+ }
